@@ -1,3 +1,4 @@
-<?php 
- echo 'test push' 
- ?>
+
+<?php
+echo "test";
+?>
