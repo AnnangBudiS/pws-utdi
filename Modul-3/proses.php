@@ -6,19 +6,19 @@ $jurusan = $_POST['jurusan'];
 switch ($jurusan) {
     case "TI" : 
         echo "jurusan anda Teknik Informatika <br/>";
-        break;
+        
         case "SI":
             echo "Jurusan anda Sistem Informatika <br/>";
-            break;
+            
             case "MI": 
                 echo "Jurusan anda Manajemen Informatika <br/>";
-                break;
+                
                 case "TK":
                     echo "Jusursan anda Teknik Komputer <br/>";
-                    break;
+                    
                     case "KA":
                         echo "Jurusan anda Komputer Akuntansi <br/>";
-                        break;
+                    
                         default:
                         echo "Jurusan Tidak ada <br/>";
 }
