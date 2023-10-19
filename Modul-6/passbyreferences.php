@@ -1,6 +1,6 @@
 <?php 
 $nilai_pertama = fn($x) => $x += 200;
-$nilai_kedua = fn( $x) => $x += 200;
+$nilai_kedua = fn($ $x) => $x += 200;
 
 $nilai_awal = 100;
 $nilai_pertama($nilai_awal);
